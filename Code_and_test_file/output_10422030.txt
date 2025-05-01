@@ -1,0 +1,11 @@
+579
+1000000000000000000000000000000
+333
+56088
+100
+16
+11
+Error: Division by zero
+Error: Malformed expression (parentheses mismatch)
+Error: Malformed expression
+Error: Invalid character in expression
